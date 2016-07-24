@@ -1,0 +1,4 @@
+-- Eclipse
+-- jdk 1.7
+-- Junit
+-- json-20090211.jar for JSON formatting and parsing.
